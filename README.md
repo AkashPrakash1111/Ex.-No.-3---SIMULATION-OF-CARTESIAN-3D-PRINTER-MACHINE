@@ -59,9 +59,10 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![EMPD5 5](https://github.com/user-attachments/assets/cdd3138f-8bce-45a7-b55c-e1126457915d)
 
-### Name: 
-### Register Number:
+### Name: SREE GOVIND SA
+### Register Number:212224240159
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
