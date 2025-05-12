@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 12-05-2025
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -61,8 +61,8 @@
 ## Output:
 ![EMPD5 5](https://github.com/user-attachments/assets/cdd3138f-8bce-45a7-b55c-e1126457915d)
 
-### Name: SREE GOVIND SA
-### Register Number:212224240159
+### Name: Akash Prakash
+### Register Number:212224240008
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
